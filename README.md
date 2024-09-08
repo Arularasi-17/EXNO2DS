@@ -1,5 +1,7 @@
-#DHARSHINIYAA KS CSE(CS) 
-# EXNO2DS
+# NAME: INFANTINA MARIA L
+# REG: 212223100013
+# DEP: CSE[CYBER SECURITY]
+# EX 2
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
